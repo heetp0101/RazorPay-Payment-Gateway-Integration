@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <golbal>
+            <basic_property html_title="Title" loadStyle="Pie" hideAdobeMenu="false" photoDynamicShow="true" enableURL="false" startAutoPlay="false"/>
+            <music_property path="" stream="true" loop="true"/>
+            <description_property enable="false" backgroundColor="0xc0c0c0" backgroundAlpha="10" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="bottom"/>
+            <background_property backgroundColor="0xffffff"    mode="tile"/>
+        </golbal>
+        <photo>
+            <basic_property PhotoMaxWidth="600" PhotoMaxHeight="400" photoborder="10" photoBackColor="0xffffff" EnablephotoTitle="true" photoTitleColor="0xfffbf0" photolineColor="0x808080" photoButtonColor="0x000000" pagedirection="right" rotationangle="10" pageSpeed="4"/>
+        </photo>
+    </preferences>
+    <album>
+        <slide  d_URL="slides/01.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/02.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/03.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/04.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/05.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/06.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/07.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/08.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/09.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/10.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="600" height="400"/>
+        <slide  d_URL="slides/11.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="" width="525" height="400"/>
+    </album>
+</flash_parameters>
